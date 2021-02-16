@@ -1,4 +1,3 @@
-#! /bin/bash
 printf "I DID NOT MAKE THIS BUT JOIN MY DISCORD: https://discord.gg/jTP9Xj2Puc" >&2
 {
 sudo useradd -m Atomic
